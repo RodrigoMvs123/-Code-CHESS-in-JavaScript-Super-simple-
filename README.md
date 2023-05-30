@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=Qv0fvm5B0EM
 
 https://github.com/RodrigoMvs123/-Code-CHESS-in-JavaScript-Super-simple-/blob/main/README.md?plain=1
 
-
+https://github.com/RodrigoMvs123/-Code-CHESS-in-JavaScript-Super-simple-/blame/main/README.md
 
 js-chess
 
